@@ -32,9 +32,9 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 <img width="876" height="684" alt="image" src="https://github.com/user-attachments/assets/e4d1e216-61b8-4357-ad4b-549338263672" />
 
+### dsniff:
+<img width="853" height="840" alt="image" src="https://github.com/user-attachments/assets/9b9fcb37-d792-4da5-ad0c-5aff6013f597" />
 
- dsniff:
-<img width="775" height="669" alt="image" src="https://github.com/user-attachments/assets/320c7c08-b68f-439a-b288-a7a2ecec593b" />
 
 
 
